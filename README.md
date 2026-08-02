@@ -31,6 +31,7 @@ The objective of this project is to transform raw sales data into an interactive
 •⁠  ⁠⭐ Average Rating: *4*
 
 
+---
 
 
 ## 📊 Dashboard Analysis
