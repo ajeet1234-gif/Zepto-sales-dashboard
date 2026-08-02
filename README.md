@@ -32,8 +32,7 @@ The objective of this project is to transform raw sales data into an interactive
 
 ---
 ## 📷 Dashboard Preview
-
-![Dashboard Preview](Dashboard- preview . jpg)
+![Dashboard Preview](Dashboard-preview.jpg)
 
 
 
