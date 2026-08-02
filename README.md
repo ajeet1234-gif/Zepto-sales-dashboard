@@ -30,9 +30,6 @@ The objective of this project is to transform raw sales data into an interactive
 •⁠  ⁠📦 Number of Items: *8,523*
 •⁠  ⁠⭐ Average Rating: *4*
 
----
-## 📷 Dashboard Preview
-![Dashboard Preview](Zepto.jpg)
 
 
 
