@@ -7,6 +7,9 @@ Interactive Sales Dashboard built in Microsoft Excel using Pivot Tables, Charts,
 This project is an interactive *Zepto Sales Dashboard* developed in *Microsoft Excel* to analyze sales performance using visual reports and KPIs. The dashboard provides insights into sales, item visibility, outlet performance, product categories, outlet sizes, city types, and customer ratings.
 
 ---
+## dashboard preview
+![Zepto Dashboard](zepto%20dashboard.jpg)
+
 
 ## 🎯 Objective
 
